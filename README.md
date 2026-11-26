@@ -27,6 +27,17 @@ The practical report focuses on MD5 test hashes and includes terminal evidence f
 - MD5 test hashes (Hashcat mode `0`)
 - `rockyou.txt` wordlist, as referenced in the report
 
+## Requirements
+
+- Kali Linux
+- Oracle VirtualBox
+- Hashcat
+- RockYou wordlist
+- MD5 test hashes
+
+The experiments were documented in a controlled virtual lab.
+
+
 ## Attack methods covered
 
 | Method | Hashcat mode | Description |
