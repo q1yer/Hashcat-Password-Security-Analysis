@@ -50,10 +50,6 @@ Actual performance depends on the hash algorithm, hardware, candidate space, Has
 
 The commands in [`COMMANDS.md`](COMMANDS.md) explain installation checks, dictionary mode, mask mode, brute-force examples, and viewing recovered results. Run them only against hashes you own or are explicitly authorized to audit.
 
-## Screenshots
-
-### Dictionary attack
-
 
 ## Screenshots
 
@@ -68,8 +64,6 @@ The commands in [`COMMANDS.md`](COMMANDS.md) explain installation checks, dictio
 
 All screenshots are original evidence from the practical experiments.
 
-
-All three images above are crops of the original terminal screenshots embedded in pages 7–8 of the project report; they have not been recreated.
 
 ## Repository structure
 
