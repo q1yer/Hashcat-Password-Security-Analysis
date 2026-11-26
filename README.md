@@ -54,15 +54,20 @@ The commands in [`COMMANDS.md`](COMMANDS.md) explain installation checks, dictio
 
 ### Dictionary attack
 
-![Dictionary attack terminal output](screenshots/dictionary-attack.png)
 
-### Mask attack — reported recovery
+## Screenshots
 
-![Mask attack terminal output](screenshots/mask-attack-1.png)
+### Dictionary Attack
+![Dictionary Attack](screenshots/dictionary-attack.png)
 
-### Mask attack — second example
+### Mask Attack - First Result
+![Mask Attack - First Result](screenshots/mask-attack-1.png)
 
-![Second mask attack terminal output](screenshots/mask-attack-2.png)
+### Mask Attack - Second Result
+![Mask Attack - Second Result](screenshots/mask-attack-2.png)
+
+All screenshots are original evidence from the practical experiments.
+
 
 All three images above are crops of the original terminal screenshots embedded in pages 7–8 of the project report; they have not been recreated.
 
